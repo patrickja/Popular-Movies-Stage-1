@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovieAppStageOne</string>
+    <string name="error_message"> Please check your Internet Connection and try again.</string>
+    <string name="movie_title_text">Movie Title</string>
+    <string name="movie_overview_text">Movie Overview</string>
+    <string name="movie_vote_average_text">Movie Rating</string>
+    <string name="movie_release_date_text">Movie Released On</string>
+    <string name="movie_poster_text">Movie Poster</string>
+    <string name="movie_menu_text">Sort</string>
+    <string name="sort_popularity_text">Popularity(Default)</string>
+    <string name="sort_top_rated_text">Top Rated</string>
+</resources>

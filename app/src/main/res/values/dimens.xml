@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_space">0dp</dimen>
+    <dimen name="layout_margin_smallest">2dp</dimen>
+    <dimen name="layout_margin_mid">8dp</dimen>
+    <dimen name="padding_mid">16dp</dimen>
+    <dimen name="errorText">20sp</dimen>
+    <dimen name="button_dimens">42dp</dimen>
+</resources>
